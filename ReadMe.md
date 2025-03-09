@@ -1,1 +1,1 @@
-Y-Lab Задание 1
+[Y-Lab Задание 1](https://github.com/PaulJavaYoung/YLab_2025_flow_1/pull/1)
